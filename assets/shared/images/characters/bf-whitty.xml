@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bf-whitty.png" width="1309" height="1184">
+  <SubTexture name="BF UP0002.png" x="0" y="0"  width="178" height="242" frameX="-0" frameY="-0" frameWidth="178" frameHeight="242"/>
+  <SubTexture name="BF UP0004.png" x="178" y="0"  width="178" height="242" frameX="-0" frameY="-0" frameWidth="178" frameHeight="242"/>
+  <SubTexture name="BF UP0000.png" x="0" y="242" width="240" height="175" rotated="true"  frameX="-2" frameY="-2" frameWidth="178" frameHeight="242"/>
+  <SubTexture name="BF MISS UP0000.png" x="356" y="0"  width="178" height="238" frameX="-0" frameY="-3" frameWidth="178" frameHeight="241"/>
+  <SubTexture name="BF LEFT0000.png" x="356" y="238"  width="178" height="231" frameX="-0" frameY="-0" frameWidth="181" frameHeight="231"/>
+  <SubTexture name="BF LEFT0001.png" x="0" y="417" width="231" height="178" rotated="true"  frameX="-0" frameY="-0" frameWidth="181" frameHeight="231"/>
+  <SubTexture name="BF MISS LEFT0000.png" x="534" y="0"  width="179" height="231" frameX="-1" frameY="-1" frameWidth="180" frameHeight="232"/>
+  <SubTexture name="BF LEFT0004.png" x="534" y="231"  width="178" height="228" frameX="-3" frameY="-3" frameWidth="181" frameHeight="231"/>
+  <SubTexture name="BF LEFT0002.png" x="0" y="595" width="226" height="178" rotated="true"  frameX="-3" frameY="-5" frameWidth="181" frameHeight="231"/>
+  <SubTexture name="BF LEFT0003.png" x="226" y="595" width="226" height="178" rotated="true"  frameX="-3" frameY="-5" frameWidth="181" frameHeight="231"/>
+  <SubTexture name="BF IDLE0000.png" x="452" y="469" width="222" height="206" rotated="true"  frameX="-0" frameY="-0" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0002.png" x="713" y="0"  width="206" height="222" frameX="-0" frameY="-0" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0003.png" x="713" y="222"  width="206" height="222" frameX="-0" frameY="-0" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0014.png" x="712" y="444"  width="206" height="222" frameX="-0" frameY="-0" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0015.png" x="0" y="773" width="222" height="206" rotated="true"  frameX="-0" frameY="-0" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF MISS RIGHT0000.png" x="222" y="773" width="222" height="206" rotated="true"  frameX="-0" frameY="-0" frameWidth="209" frameHeight="222"/>
+  <SubTexture name="BF IDLE0012.png" x="444" y="773" width="221" height="206" rotated="true"  frameX="-0" frameY="-1" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF RIGHT0000.png" x="674" y="666" width="219" height="207" rotated="true"  frameX="-1" frameY="-0" frameWidth="209" frameHeight="222"/>
+  <SubTexture name="BF RIGHT0002.png" x="919" y="0"  width="207" height="219" frameX="-0" frameY="-0" frameWidth="209" frameHeight="222"/>
+  <SubTexture name="BF RIGHT0004.png" x="919" y="219"  width="207" height="219" frameX="-0" frameY="-0" frameWidth="209" frameHeight="222"/>
+  <SubTexture name="BF IDLE0010.png" x="919" y="438"  width="206" height="218" frameX="-0" frameY="-4" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0004.png" x="918" y="656"  width="205" height="217" frameX="-1" frameY="-5" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0005.png" x="0" y="979" width="217" height="205" rotated="true"  frameX="-1" frameY="-5" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0008.png" x="665" y="873"  width="206" height="214" frameX="-0" frameY="-8" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0006.png" x="871" y="873" width="212" height="206" rotated="true"  frameX="-0" frameY="-10" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF MISS DOWN0000.png" x="217" y="979"  width="187" height="199" frameX="-2" frameY="-0" frameWidth="191" frameHeight="199"/>
+  <SubTexture name="BF DOWN0002.png" x="404" y="979"  width="183" height="193" frameX="-1" frameY="-0" frameWidth="184" frameHeight="193"/>
+  <SubTexture name="BF DOWN0003.png" x="1126" y="0"  width="183" height="193" frameX="-1" frameY="-0" frameWidth="184" frameHeight="193"/>
+  <SubTexture name="BF DOWN0004.png" x="1126" y="193"  width="183" height="193" frameX="-1" frameY="-0" frameWidth="184" frameHeight="193"/>
+  <SubTexture name="BF DOWN0000.png" x="1126" y="386"  width="182" height="189" frameX="-0" frameY="-4" frameWidth="184" frameHeight="193"/>
+  <SubTexture name="BF DOWN0001.png" x="1125" y="575"  width="182" height="189" frameX="-0" frameY="-4" frameWidth="184" frameHeight="193"/>
+  <SubTexture name="BF IDLE0001.png" x="452" y="469" width="222" height="206" rotated="true"  frameX="-0" frameY="-0" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0007.png" x="871" y="873" width="212" height="206" rotated="true"  frameX="-0" frameY="-10" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0009.png" x="665" y="873"  width="206" height="214" frameX="-0" frameY="-8" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0011.png" x="919" y="438"  width="206" height="218" frameX="-0" frameY="-4" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF IDLE0013.png" x="444" y="773" width="221" height="206" rotated="true"  frameX="-0" frameY="-1" frameWidth="206" frameHeight="222"/>
+  <SubTexture name="BF RIGHT0001.png" x="674" y="666" width="219" height="207" rotated="true"  frameX="-1" frameY="-0" frameWidth="209" frameHeight="222"/>
+  <SubTexture name="BF RIGHT0003.png" x="919" y="0"  width="207" height="219" frameX="-0" frameY="-0" frameWidth="209" frameHeight="222"/>
+  <SubTexture name="BF UP0001.png" x="0" y="242" width="240" height="175" rotated="true"  frameX="-2" frameY="-2" frameWidth="178" frameHeight="242"/>
+  <SubTexture name="BF UP0003.png" x="0" y="0"  width="178" height="242" frameX="-0" frameY="-0" frameWidth="178" frameHeight="242"/>
+</TextureAtlas>
