@@ -1,0 +1,137 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-38
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-26
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF MISS DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				37
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF MISS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				53
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF MISS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF MISS RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				0,
+				1
+			],
+			"name": "BF IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-whitty",
+	"position": [
+		90,
+		470
+	],
+	"healthicon": "bfWhitty",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		255,
+		230
+	],
+	"camera_position": [
+		140,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
