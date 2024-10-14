@@ -118,36 +118,12 @@ function onTimerCompleted(tag, loops, loopsLeft)
         setProperty('boyfriendCutscene.visible', false);
         setProperty('girlfriendCutscene.visible', false);
     end
-
     --Finishing the Cutscene and Starting the Song
     if tag == 'finishCutscene' then
         setProperty('inCutscene', true);
         triggerEvent('startDialogue');
         startDialogue('dialogue', 'lo-fight/citynight');
-
         setProperty('camHUD.visible', true);
         stopSound('nightCity');
-    end
-end
-
--- All these Functions Below will serve as the Voice Line Code for the Dialogue Sequence
-function onNextDialogue(dialogueCount)
-    dialogueVoiceLines(dialogueCount + 1);
-end
-
-function onSkipDialogue(dialogueCount)
-    stopSound('voiceLineExtra');
-end
-
-function dialogueVoiceLines(voiceLineCount)
-    stopSound('voiceLine');
-    stopSound('voiceLineExtra');
-    playSound('lo-fight/dialogueVoiceLines/' ..voiceLineCount, 1, 'voiceLine');
-    playSound('lo-fight/dialogueVoiceLines/' ..voiceLineCount, 1, 'voiceLineExtra');
-end
-
-function onEvent(eventName, value1, value2, strumTime)
-    if eventName == 'startDialogue' then
-        dialogueVoiceLines(1);
     end
 end
